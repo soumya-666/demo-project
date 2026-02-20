@@ -1,4 +1,4 @@
 # demo-project
 This is my first Git Repository.
 <br>
-Author - Soumyashree omm prakash rout
+Author - Soumya Rout
